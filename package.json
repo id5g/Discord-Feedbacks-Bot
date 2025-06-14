@@ -1,0 +1,16 @@
+{
+  "name": "feedbacks-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Dark Dev",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "st.db": "^7.2.10"
+  }
+}
